@@ -1,10 +1,3 @@
----
-layout: default
-theme: jekyll-theme-hacker
-title: SMK Telkom RPL Prep
-description: Zero to Hero Developer Roadmap
----
-
 <div align="center">
   <h1>🚀 SMK Telkom RPL Prep</h1>
   <p><strong>Zero to Hero Developer Roadmap</strong></p>
