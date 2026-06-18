@@ -1,5 +1,12 @@
+---
+layout: default
+theme: jekyll-theme-cayman
+title: SMK Telkom RPL Prep
+description: Zero to Hero Developer Roadmap
+---
+
 <div align="center">
-  <h1>🚀 SMK Telkom RPL Prep</h1>
+  <h1>🌿 SMK Telkom RPL Prep</h1>
   <p><strong>Zero to Hero Developer Roadmap</strong></p>
   <p><em>A comprehensive guide designed to prepare you for the Rekayasa Perangkat Lunak (RPL) major, taking you from writing basic HTML to building high-performance backend systems.</em></p>
 </div>
@@ -11,7 +18,7 @@
 1. **Fork or clone** this repository to your own GitHub account.
 2. **Track your progress** by checking off the boxes (`[x]`) as you complete each day.
 3. **Organize your code** by keeping your daily exercises in folders (e.g., `/week-1/day-1`).
-4. **Publish your progress** by enabling GitHub Pages in your repository settings (the theme is already configured at the top of this file!).
+4. **Publish your progress** by enabling GitHub Pages in your repository settings (the modern green theme is already configured at the top of this file!).
 
 ---
 
@@ -19,18 +26,18 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Text Editors** | ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| **IDEs** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) *(via XAMPP)* |
-| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Text Editors** | ![Sublime Text](https://img.shields.io/badge/Sublime_Text-16A34A?style=flat-square&logo=sublime-text&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-ffffff?style=flat-square&logo=notepadplusplus&logoColor=16A34A) ![VS Code](https://img.shields.io/badge/VS_Code-16A34A?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **IDEs** | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-ffffff?style=flat-square&logo=visual-studio&logoColor=16A34A) ![NetBeans](https://img.shields.io/badge/NetBeans-16A34A?style=flat-square&logo=apache-netbeans&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=16A34A) ![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat-square&logo=php&logoColor=16A34A) ![.NET](https://img.shields.io/badge/.NET-16A34A?style=flat-square&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=java&logoColor=16A34A) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-16A34A?style=flat-square&logo=mysql&logoColor=white) *(via XAMPP)* |
+| **Tools** | ![Postman](https://img.shields.io/badge/Postman-ffffff?style=flat-square&logo=postman&logoColor=16A34A) ![FileZilla](https://img.shields.io/badge/FileZilla-16A34A?style=flat-square&logo=filezilla&logoColor=white) ![Git](https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=16A34A) |
 
 ---
 
 ## 🗓️ The Roadmap
 
 <details>
-<summary><strong>📅 Week 1: The Visual Foundation (HTML & CSS)</strong></summary>
+<summary><strong>📗 Week 1: The Visual Foundation (HTML & CSS)</strong></summary>
 
 > **Goal:** Understand how web pages are structured and styled.  
 > **Tools:** Notepad++ / Sublime Text (Days 1-2), VS Code (Days 3-5)
@@ -59,7 +66,7 @@
 </details>
 
 <details>
-<summary><strong>📅 Week 2: Programming Logic & Algorithms (Python)</strong></summary>
+<summary><strong>📗 Week 2: Programming Logic & Algorithms (Python)</strong></summary>
 
 > **Goal:** Learn how a computer "thinks" using variables, loops, and conditions.  
 > **Tools:** Anaconda (Jupyter Notebook / Spyder)
@@ -88,7 +95,7 @@
 </details>
 
 <details>
-<summary><strong>📅 Week 3: Databases & The Classic Backend (XAMPP & PHP)</strong></summary>
+<summary><strong>📗 Week 3: Databases & The Classic Backend (XAMPP & PHP)</strong></summary>
 
 > **Goal:** Learn the standard SMK Telkom web stack (RDBMS and Server-Side Scripting).  
 > **Tools:** XAMPP (Apache & MySQL), VS Code
@@ -117,7 +124,7 @@
 </details>
 
 <details>
-<summary><strong>📅 Week 4: Modern JavaScript & APIs (NodeJS & Postman)</strong></summary>
+<summary><strong>📗 Week 4: Modern JavaScript & APIs (NodeJS & Postman)</strong></summary>
 
 > **Goal:** Separate the frontend from the backend by building RESTful APIs.  
 > **Tools:** Node.js, VS Code, Postman
@@ -144,7 +151,7 @@
 </details>
 
 <details>
-<summary><strong>📅 Week 5: Enterprise Architecture (.NET)</strong></summary>
+<summary><strong>📗 Week 5: Enterprise Architecture (.NET)</strong></summary>
 
 > **Goal:** Prepare for high-concurrency, professional-grade system development.  
 > **Tools:** Visual Studio Community, .NET SDK
@@ -173,7 +180,7 @@
 </details>
 
 <details>
-<summary><strong>📅 Week 6: Version Control, Java, & Deployment</strong></summary>
+<summary><strong>📗 Week 6: Version Control, Java, & Deployment</strong></summary>
 
 > **Goal:** Learn how professionals manage code, collaborate, and push to the live internet.  
 > **Tools:** Git, Netbeans (Java), FileZilla, GitHub Pages
@@ -201,6 +208,6 @@
 * [ ] **Day 31: Bonus - Jekyll Themes in Action!**
   * **Resource:** [GitHub Docs - Adding a Theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
   * **Task:** Watch the YAML Front Matter at the top of this file go to work.
-  * **Practice:** Ensure GitHub Pages is enabled in your repository settings. Once deployed, GitHub will read the `theme: jekyll-theme-hacker` code at the top of this `README.md` and instantly generate a beautifully styled live website!
+  * **Practice:** Ensure GitHub Pages is enabled in your repository settings. The `theme: jekyll-theme-cayman` line at the very top of this file will automatically generate a clean, modern green-and-white webpage based on this exact README!
 
 </details>
